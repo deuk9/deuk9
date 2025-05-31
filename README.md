@@ -9,7 +9,10 @@
 ```
 
 ### 💻 Backend Developer | ⚙ Smart Factory Engineer
-- 안녕하세요. 
+- 안녕하세요. 스마트팩토리 백엔드 개발자입니다.
+- 
+- Blog: [deuk9.github.io](https://deuk9.github.io)
+  
 
 ## 🧰 Tech Stack
 
