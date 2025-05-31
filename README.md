@@ -10,7 +10,7 @@
 
 ### 💻 Backend Developer | ⚙ Smart Factory Engineer
 - 안녕하세요. 스마트팩토리 분야 백엔드 개발자입니다.
-- Spring boot 기반 백엔드 개발을 주로하고 있습니다.
+- Spring boot 기반 백엔드 개발을 주로하고 있으며, 안정적인 운영을 위한 DevOps에도 관심이 많습니다.
 - Blog: [deuk9.github.io](https://deuk9.github.io)
   
 
